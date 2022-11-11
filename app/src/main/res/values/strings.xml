@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Crypto Coins</string>
+
+    <string name="title_name">Nombre</string>
+    <string name="title_price">Precio</string>
+    <string name="title_24h">%24h</string>
+    <string name="available">Disponible en:</string>
+
+    <string name="shared_pref_object">sharedPreferencesObject</string>
+    <string name="shared_pref_url">url</string>
+
+    <string name="generic_error_backend">Ha ocurrido un error</string>
+
+
+
+</resources>
